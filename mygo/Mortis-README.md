@@ -15,13 +15,13 @@
 
 1. **下载主题文件**
    - 将 `mygo-Mortis.css` 文件下载到本地
-   - 确保 `mygo/png/Mortis.png` 图片文件在正确的相对路径
+   - 确保 `png/Mortis.png` 图片文件在正确的相对路径（与CSS文件同级的png文件夹）
 
 2. **安装到 Typora**
    - 打开 Typora
    - 点击 **文件** → **偏好设置** → **外观**
    - 点击 **打开主题文件夹**
-   - 将 `mygo-Mortis.css` 和 `mygo` 文件夹复制到主题文件夹中
+   - 将 `mygo-Mortis.css` 文件和 `png` 文件夹复制到主题文件夹中
 
 3. **应用主题**
    - 重启 Typora
