@@ -1,16 +1,17 @@
-# MyGo-Anon Typora Pink Theme
+# MyGo-Anon Typora Macaroon Pink Theme
 
-[中文](README.md)
+[中文](Anon-README.md)
 
-> A pink Typora theme inspired by Anon from MyGo!!!!!
+> A macaroon pink Typora theme inspired by Anon from MyGo!!!!!
 
 ## Features
 
-- 🎨 **Pink Color Palette**: Warm pink tones as the main color scheme
+- 🎨 **Macaroon Pink Palette**: Soft macaroon pink tones as the main color scheme
 - 🖼️ **Background Image**: Integrated Anon character image from MyGo!!!!!
 - 💫 **Modern Design**: Semi-transparent effects and blur background
 - 📝 **Elegant Typography**: Clear text hierarchy and comfortable reading experience
 - 🌸 **Detail Optimization**: Custom scrollbars, selection effects, and more
+- 🌈 **Light Theme**: Bright theme perfect for daytime use
 
 ## Installation
 
@@ -32,23 +33,24 @@
 
 ### Main Features
 
-- **Header Styles**: Pink headers, centered H1 with underline, H2 with left border
-- **Link Styles**: Pink links with underline effects
-- **Code Blocks**: Pink syntax highlighting with semi-transparent background
-- **Quote Blocks**: Pink left border with light pink background
-- **Task Lists**: Pink checkboxes
-- **Tables**: Pink header background
-- **Background**: Anon character image, fixed at bottom right
+- **Header Styles**: Macaroon pink headers, centered H1 with underline, H2 with left border
+- **Link Styles**: Macaroon pink links with underline effects
+- **Code Blocks**: Macaroon pink syntax highlighting with semi-transparent background
+- **Quote Blocks**: Macaroon pink left border with light pink background
+- **Task Lists**: Macaroon pink checkboxes
+- **Tables**: Macaroon pink header background
+- **Background**: Anon character image, fixed at bottom right with white base
 
-### Color Configuration
+### Macaroon Pink Configuration
 
 ```css
 :root {
-    --title-color: #e91e63;      /* Pink titles */
-    --link-color: #ff4081;       /* Pink links */
-    --code-color: #e91e63;       /* Pink code */
-    --shadow-color: #fce4ec;     /* Light pink shadow */
-    --border: #f8bbd9;           /* Light pink border */
+    --title-color: #f8a5c2;         /* Macaroon pink titles */
+    --link-color: #f7b2d3;          /* Macaroon pink links */
+    --code-color: #f8a5c2;          /* Macaroon pink code */
+    --shadow-color: #fdf2f8;        /* Lighter macaroon pink shadow */
+    --border: #f5d2e7;              /* Light macaroon pink border */
+    --inline-code-bg: #fdf2f8;      /* Light macaroon pink code background */
 }
 ```
 
@@ -62,7 +64,7 @@ To use a different background image, modify this CSS rule:
 
 ```css
 body {
-    background-image: url('./mygo/png/your-image.png');
+    background-image: url('./png/your-image.png');
 }
 ```
 
@@ -83,12 +85,18 @@ You can adjust the content area transparency by modifying:
 - ✅ Linux
 - ✅ PDF Export (automatically hides background image)
 - ✅ Print Mode
+- ✅ Light mode optimized
 
 ## License
 
 MIT License
 
 ## Changelog
+
+### v2.0.0 (2025-01-20)
+- 🎨 Upgraded to macaroon pink color palette
+- 💫 Improved color harmony for better comfort
+- 🌸 Enhanced readability and visual effects
 
 ### v1.0.0 (2025-09-09)
 - 🎉 Initial release
