@@ -236,13 +236,13 @@ td {
 
 code,
 .md-fences {
-	background-color: #f6f8fa;
+	background-color: #fdf2f8;
 }
 
 code {
 	padding: 0.2em 0.4em;
 	border-radius: 3px;
-	border: 1px solid #e1e4e8;
+	border: 1px solid #f3d0d7;
 	color: #24292e;
 	font-size: 85%;
 }
