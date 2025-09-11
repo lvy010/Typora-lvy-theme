@@ -1,6 +1,6 @@
 # Typora-lvy-theme
 
-一个为 Typora 设计的 MyGo!!!!! 主题集合
+一个为 Typora 设计的 MyGo!! 主题集合
 
 ## 主题预览
 ![主题预览](example_png/example.jpg)
