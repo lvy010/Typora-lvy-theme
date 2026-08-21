@@ -61,7 +61,7 @@
     --active-file-text-color: var(--title-color);
     --active-file-bg-color: var(--shadow-color);
     --item-hover-bg-color: var(--shadow-color);
-    --active-file-border-color: var(var(--title-color));
+    --active-file-border-color: var(--title-color);
     --base-font: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     --title-font: "EB Garamond", "Source Sans Pro", serif;
     --monospace: Courier, Monospace !important;
@@ -69,7 +69,7 @@
 
 /* 背景图片设置 - MyGo Anon */
 body {
-    background-image: url('./png/anon.png');
+    background-image: url('./mygo/png/anon.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right bottom;
